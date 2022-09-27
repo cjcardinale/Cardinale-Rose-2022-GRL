@@ -9,3 +9,9 @@ This repository will host code for reproducing the results in "The Increasing Ef
   <li> Example figures and a brief overview of the Arctic surface heating efficiency metric, $E_{\textrm{trop}}$ </li>
   <li> Code to calculate $E_{\textrm{trop}}$ </li>
 </ul>
+
+`comp` includes:
+<ul>
+  <li> <code>functions.py</code>: user-defined functions (e.g., MSE transport and daily anomalies)</li>
+  <li> <code>geocat_interp.py</code>: adapted <a href="https://github.com/NCAR/geocat-comp/blob/main/src/geocat/comp/interpolation.py">interpolation code</a> from <a href="https://geocat-comp.readthedocs.io/en/latest/">GeoCAT-comp</a> </li>
+</ul>
