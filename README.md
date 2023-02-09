@@ -10,6 +10,12 @@ This repository hosts code for reproducing the results in "The Increasing Effici
   <li> Code to calculate $E_{\textrm{trop}}$ </li>
 </ul>
 
+`Results.ipynb` includes:
+<ul> 
+  <li> Code to reproduce figures in Cardinale and Rose (2023) </li>
+  <li> Code to identify tropsopheric energy flux events </li>
+</ul>
+
 `comp` includes:
 <ul>
   <li> <code>functions.py</code>: user-defined functions (e.g., MSE transport and daily anomalies)</li>
